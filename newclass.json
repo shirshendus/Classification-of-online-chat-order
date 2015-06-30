@@ -1,0 +1,34 @@
+{
+    "confusion": {}, 
+    "confirm": {
+        "travel @ i want to go to mumbai from delhi": {
+            "food": {}, 
+            "movie": {}, 
+            "travel": {
+                "delhi": 1, 
+                "mumbai": 1
+            }, 
+            "grocery": {}, 
+            "new": {}
+        }, 
+        "movie @ tanu weds manu": {
+            "food": {}, 
+            "movie": {
+                "tanu weds manu": 2
+            }, 
+            "travel": {}, 
+            "grocery": {}
+        }, 
+        "food @ Please send me a chicken meal": {
+            "food": {
+                "chicken": 1, 
+                "meal": 1
+            }, 
+            "movie": {}, 
+            "travel": {}, 
+            "grocery": {
+                "chicken": 1
+            }
+        }
+    }
+}
